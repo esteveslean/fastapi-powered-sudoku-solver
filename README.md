@@ -2,8 +2,8 @@
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/esteveslean/fastapi-sudoku-solver.git
-cd fastapi-sudoku-solver
+git clone https://github.com/esteveslean/fastapi-powered-sudoku-solver.git
+cd fastapi-powered-sudoku-solver
 ```
 
 ### **2️⃣ Install Dependencies**
