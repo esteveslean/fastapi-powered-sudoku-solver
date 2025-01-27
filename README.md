@@ -17,8 +17,6 @@ pip install -r requirements.txt
 ```sh
 uvicorn main:app --reload
 ```
-*(Replace `main.py` with your actual script name if different.)*
-
 - The API will be available at:  
   📌 **Swagger UI** → [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs) 
 
